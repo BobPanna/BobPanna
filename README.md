@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BobPanna
-- 👀 I’m interested in QA and Data science
+- 👀 I’m interested in BA, PO and Data Science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me https://www.linkedin.com/in/rgpannain/
 
